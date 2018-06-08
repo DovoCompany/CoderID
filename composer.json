@@ -1,0 +1,10 @@
+{
+    "require": {
+        "dominicvonk/draftmvc": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

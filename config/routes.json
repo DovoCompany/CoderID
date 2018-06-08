@@ -1,0 +1,7 @@
+{
+    ".*": {
+        "GET": {
+            "/(index.php)?/?": "\\App\\Controllers\\MainController->home"
+        }
+    }
+}
