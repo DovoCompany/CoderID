@@ -16,7 +16,6 @@ use \DraftMVC\DraftRouter as Router;
 Config::load("db.json");
 Config::load("routes.json");
 Config::load("general.json");
-Config::load("ac.json");
 
 
 \DraftMVC\DraftModel::useDB(new \App\Library\DB());
